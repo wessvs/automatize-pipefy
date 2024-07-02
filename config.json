@@ -1,0 +1,6 @@
+{
+    "accesstoken": "YOUR_TOKEN_ID",
+    "pipeid": "YOUR_PIPE_ID",
+    "triagemphaseid": "INITIAL_FASE",
+    "fechadophaseid": "END_FASE"
+}
